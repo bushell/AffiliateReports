@@ -1,6 +1,7 @@
 # AffiliateReports
 
 Offical forum: https://gamblingninja.com/forum/forum/affiliate-reports
+
 Affiliate Reports Displaying on WP Dashboard
 
 This is code to get affiliate reporting data from the brand casumo - it is easy to add further brands.
